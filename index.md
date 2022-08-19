@@ -3,17 +3,17 @@
 TEMARIO DEL CURSO
 =================
 
-1.-
+1.- LUCAS
 
-2.-
+2.- MARCOS
 
-3.-
+3.- LUCAS
 
-4.-
+4.- MARCOS
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AQUI NO SE QUE PONER... LA VERDAD
 
 ```markdown
 Syntax highlighted code block
